@@ -1,0 +1,6 @@
+.circuit
+V1 n1 n0 ac 5 0
+L1 n1 n2 1
+R1 n2 n0 100
+.end
+.ac V1 100

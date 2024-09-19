@@ -1,0 +1,8 @@
+....
+.circuit
+R1 n1 n2 100 # comment
+V2 GND n3 5 # comment
+I2 n1 GND 2 # comment
+.end
+
+....
